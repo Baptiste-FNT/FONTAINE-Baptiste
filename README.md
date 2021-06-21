@@ -9,7 +9,7 @@ FONTAINE Baptiste
 
 * Nom | Prénom : FONTAINE Baptiste
 * Nom de naissance : FONTAINE Baptiste
-* Naissance : 13 / 02 /2001
+* Naissance : 13 / 02 / 2001
 * Nationalitée : Française
 * Profession : Développeur Junior
 
