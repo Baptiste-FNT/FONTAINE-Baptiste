@@ -7,11 +7,11 @@ FONTAINE Baptiste
 
 ## Informations personnelles
 
-* Nom | Prénom : FONTAINE Baptiste
-* Nom de naissance : FONTAINE Baptiste
-* Naissance : 13 / 02 / 2001
-* Nationalitée : Française
-* Profession : Développeur Junior
+* Nom | Prénom : <em> FONTAINE Baptiste </em>
+* Nom de naissance : <em> FONTAINE Baptiste </em>
+* Naissance : <em> 13 / 02 / 2001 </em>
+* Nationalitée : <em> Française </em>
+* Profession : <em> Développeur Junior </em>
 
 ----------------------------------
 
