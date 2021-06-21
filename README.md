@@ -5,7 +5,7 @@ FONTAINE Baptiste
 | ------------- | ------------- |
 | ![FONTAINE_Baptiste](https://www.tombreton.com/wp-content/uploads/2015/05/pixabay.com_banque-dimages-gratuites_tombreton.jpg) | FONTAINE Baptiste, j'adore la sécurité informatique ainsi que la programmation  |
 
-### Informations personnelles
+## Informations personnelles
 
 * Nom | Prénom : FONTAINE Baptiste
 * Nom de naissance : FONTAINE Baptiste
