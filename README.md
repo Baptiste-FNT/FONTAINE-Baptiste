@@ -20,7 +20,7 @@ Contient une présentation personnel ainsi que celle de Simplon
 
 | Logo Simplon | Titre de la formation |
 | ------------- | ------------- |
-| ![Simplon.co](https://simplonline.co/static/sol-logo.png) | Développeur WEB et WEB mobile  |
+| ![Simplon.co](https://media.discordapp.net/attachments/855008953351143424/856462789183012874/68747470733a2f2f7a7570696d616765732e6e65742f75702f32302f32372f76646b762e706e67.png) | Développeur WEB et WEB mobile  |
 
 ----------------------------------
 # Référenciel
